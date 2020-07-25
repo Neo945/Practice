@@ -4,3 +4,5 @@ git_opeation()
 print("Exit")
 #calling again
 git_operation()
+git_operation()
+git_operation()
